@@ -2,9 +2,9 @@
 Spring + Mongo + GraphQL test
 
 # start mongo locally
-mongod or brew services stop mongodb-community
-mongod-status or brew services list
-mongod-stop or brew services stop mongodb-community
+- mongod or brew services stop mongodb-community
+- mongod-status or brew services list
+- mongod-stop or brew services stop mongodb-community
 
 # start the app
 MongoTestApplication.main()
